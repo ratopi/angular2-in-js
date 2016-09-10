@@ -1,5 +1,9 @@
 # Some simple Angular2 examples in plain JavaScript.
 
+Writing Angular2 Apps in plain JavaScript is not as strange as it sounds.
+If you keep your code tidy it's simple as writing it in TypeScript.
+... and the best is: You don't have classes!!!
+
 You need to install some node_modules before you use the app:
 
 	cd src
